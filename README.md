@@ -1,6 +1,8 @@
 # energy-based-am-presentation
 
-Code and figures for my lab presentation on Energy-based Associative memories
+Code and figures for my lab presentation on Energy-based Associative memories.
+Implementation of Energy-based Associative Memories comes from [Krotov et al. (2025)](https://tutorial.amemory.net/).
+Please check out this tutorial and associated notebooks. It is very wonderful.
 
 # Figures
 
